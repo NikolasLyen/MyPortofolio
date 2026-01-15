@@ -1,5 +1,5 @@
 # Personal Portfolio Website
-Hello welcome to my first repository, this time Im trying to make a modern, responsive personal portfolio website showcasing projects, skills, and profile information. Built with clean HTML, CSS, and vanilla JavaScript, featuring interactive tabs, image galleries, and fullscreen preview modals for a professional presentation.
+Hello welcome to my first repository, this time Im trying to make a modern, responsive personal portfolio website showcasing projects, skills, and profile information. Built with clean HTML, CSS, and JavaScript, featuring interactive tabs, image galleries, and fullscreen preview modals for a professional presentation.
 
 ## 🌐 Live Preview
 https://nikolaslyen.github.io/MyPortofolio/
